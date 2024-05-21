@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Создание интернет магазина",
+    "price": "150 000 ₽",
+    "company": "ООО Генератор рандомных слов",
+    "manager": "Зубенко М.П",
+    "experience": "от 3 лет",
+    "responses": 4,
+    "client": "Петр Первый",
+    "number": 89354906272,
+    "email": "slavarussia@yandex.ru"
+  },
+  {
+    "title": "Создание ЗОО магазина",
+    "price": "200 000 ₽",
+    "company": "ООО Генератор Добрые люди",
+    "manager": "Клочков Ю.М",
+    "experience": "от 5 лет",
+    "responses": 16,
+    "client": "Петр Первый",
+    "number": 89354906272,
+    "email": "slavarussia@yandex.ru"
+  },
+  {
+    "title": "Создание системы по отчёту заявок",
+    "price": "300 000 ₽",
+    "company": "ООО боже помоги",
+    "manager": "Сидорин В.А",
+    "experience": "от 2 лет",
+    "responses": 1,
+    "client": "Петр Первый",
+    "number": 89354906272,
+    "email": "slavarussia@yandex.ru"
+  },
+  {
+    "title": "Казино онлайн",
+    "price": "100 000 ₽",
+    "company": "ООО Казино Вулкан",
+    "manager": "Ты точно его видел",
+    "experience": "от 120 лет",
+    "responses": 7,
+    "client": "Неизвестный",
+    "number": 89354906272,
+    "email": "slavarussia@yandex.ru"
+  }
+
+  
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "avatar": "../avatar/client_1.jpg",
+    "company": "ООО Пример",
+    "nameclient": "Иванов Иван Иванович",
+    "inn": "1234567890",
+    "post": "Генеральный директор",
+    "number": 71234567890,
+    "email": "ivanov@example.com",
+    "address": "Москва, ул. Примерная, д. 1"
+  },
+  {
+    "avatar": "../avatar/client_2.jpg",
+    "company": "ОАО Пример2",
+    "nameclient": "Петров Петр Петрович",
+    "inn": "0987654321",
+    "post": "Директор по развитию",
+    "number": 79876543210,
+    "email": "petrov@example.com",
+    "address": "Санкт-Петербург, пр. Успешный, д. 2"
+  },
+  {
+    "avatar": "../avatar/client_3.jpg",
+    "company": "ЗАО Пример3",
+    "nameclient": "Сидоров Сидор Сидорович",
+    "inn": "5678901234",
+    "post": "Руководитель отдела продаж",
+    "number": 75678901234,
+    "email": "sidorov@example.com",
+    "address": "Новосибирск, ул. Прогрессивная, д. 3"
+  },
+  {
+    "avatar": "../avatar/client_4.jpg",
+    "company": "ИП Пример4",
+    "nameclient": "Александров Александр Александрович",
+    "inn": "4321098765",
+    "post": "Исполнительный директор",
+    "number": 74321098765,
+    "email": "alexandrov@example.com",
+    "address": "Екатеринбург, ул. Перспективная, д. 4"
+  },
+  {
+    "avatar": "../avatar/client_5.jpg",
+    "company": "ООО Пример5",
+    "nameclient": "Николаев Николай Николаевич",
+    "inn": "1357924680",
+    "post": "Руководитель отдела IT",
+    "number": 71357924680,
+    "email": "nikolaev@example.com",
+    "address": "Красноярск, ул. Успешная, д. 5"
+  },
+  {
+    "avatar": "../avatar/client_6.jpg",
+    "company": "ОАО Пример6",
+    "nameclient": "Дмитриев Дмитрий Дмитриевич",
+    "inn": "2468013579",
+    "post": "Главный инженер",
+    "number": 72468013579,
+    "email": "dmitriev@example.com",
+    "address": "Казань, ул. Процветающая, д. 6"
+  },
+  {
+    "avatar": "../avatar/client_7.jpg",
+    "company": "ЗАО Пример7",
+    "nameclient": "Михайлов Михаил Михайлович",
+    "inn": "3579246801",
+    "post": "Директор по маркетингу",
+    "number": 73579246801,
+    "email": "mikhailov@example.com",
+    "address": "Сочи, ул. Успехов, д. 7"
+  },
+  {
+    "avatar": "../avatar/client_8.jpg",
+    "company": "ИП Пример8",
+    "nameclient": "Егоров Егор Егорович",
+    "inn": "4680135792",
+    "post": "Финансовый директор",
+    "number": 74680135792,
+    "email": "egorov@example.com",
+    "address": "Владивосток, ул. Возможностей, д. 8"
+  }
+]
